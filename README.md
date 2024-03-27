@@ -1,6 +1,6 @@
 # TestRepository
 
-Ubah l
+Ubah la
 
 This is a repository for demonstrating the process of doing a pull request.
 
